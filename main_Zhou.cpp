@@ -1,6 +1,5 @@
 /*
  * C++ Game Design Project
- * TA: Greg Hunkins
  *
  * main_Zhou.cpp by Shuyu Zhou
  *
