@@ -1,6 +1,5 @@
 /*
  * C++ Game Design Project
- * TA: Greg Hunkins
  *
  * Player.cpp by Shuyu Zhou
  *

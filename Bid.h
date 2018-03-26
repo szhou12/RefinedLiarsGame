@@ -1,6 +1,5 @@
 /*
  * C++ Game Design Project
- * TA: Greg Hunkins
  *
  * Bid.h by Shuyu Zhou
  *
